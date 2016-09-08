@@ -3,7 +3,7 @@
 Global Styles
 ========================================================================== */
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Amaranth', sans-serif;
   font-size: 16px;
   color: #0d0d0d;
   overflow-x: hidden;
@@ -11,14 +11,14 @@ body {
 
 .sep {
   max-width: 80px;
-  border: 2px solid #0d0d0d;
+  border: 2px solid #F36F87;
   margin-top: 40px;
   margin-bottom: 40px;
 }
 
 .light-sep {
   max-width: 80px;
-  border: 2px solid #fff;
+  border: 2px solid #DDEAB2;
   margin-top: 40px;
   margin-bottom: 40px;
 }
@@ -127,7 +127,7 @@ Buttons Styles
 }
 
 .btn-block {
-  background: #24242a;
+  background: #F7B871;
   padding: 15px 0;
   font-size: 16px;
   -moz-border-radius: 0;
@@ -141,7 +141,7 @@ Buttons Styles
   font-weight: 700;
   letter-spacing: 0.05em;
   text-transform: uppercase;
-  border: 3px solid #24242a;
+  border: 3px solid #F7B871;
 }
 
 .btn-block:hover,
@@ -193,7 +193,7 @@ Preloader Style
 Navigation Style
 ========================================================================== */
 .navbar-default {
-  background: rgba(13, 13, 13, 0.6);
+  background: rgba(249, 167, 155, 0.9);
   margin-bottom: 0;
   border: none;
   }
@@ -237,7 +237,7 @@ Navigation Style
 }
 
 .top-nav-collapse {
-  background: #24242a;
+  background: #D5BEB8;
 }
 .top-nav-collapse .navbar-brand {
   height: auto;
@@ -541,7 +541,7 @@ Contact Us Style
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   border-radius: 0;
-  border: 2px solid #24242a;
+  border: 2px solid #F7B871;
   color: #0d0d0d;
   min-height: 45px;
 }
@@ -554,7 +554,7 @@ Contact Us Style
 Footer Map Style
 ========================================================================== */
 footer {
-  background: #24242a;
+  background: #D5BEB8;
   padding: 60px 0;
   text-align: center;
 }
@@ -590,7 +590,7 @@ Media Queries Style
 @media (max-width: 992px) {
   /*-- Navigation --*/
   .navbar-default {
-    background: #24242a;
+    background: #D5BEB8;
   }
   .navbar-default .navbar-header {
     width: 100%;
